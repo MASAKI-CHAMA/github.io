@@ -1,0 +1,36 @@
+
+main{
+  text-align: center;
+  background-size: cover;
+  background-image:url( https://hanshintigers.jp/entertainment/download/images/cal2009a_1280.jpg);
+
+
+}
+
+
+.title {
+  color: black;
+  padding-top:30px;
+}
+
+.best-hitters{
+  text-align:left;
+  padding-left:30px;
+  font-size:20px;
+  font-weight:bold;
+}
+.btn{
+   display: inline-block;
+   opacity:0.8;
+   padding: 5px 5px;
+   color:black;
+   border-radius: 10px;
+}
+
+.twitter{
+  background-color:#55acee;
+}
+
+.facebook{
+  background-color :#3b5998;
+}
